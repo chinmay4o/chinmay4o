@@ -1,6 +1,5 @@
 - 👋  Hello World! I am Chinmay Surve
-- 👀  I’m interested in Full Stack Projects
-- 🌱  I’m a MERN stack developer ...
+- 👀  I’m am a Full Stack developer
 - 📫  Reach me @chinmayinbox8@gmail.com
 
 <!---

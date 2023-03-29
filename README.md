@@ -3,7 +3,7 @@
 <!-- [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/chinmay4o) -->
 [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/chinmay4o)
 <br> <br>
-The green dots on my [**GitHub profile**](https://github.com/chinmay4o?tab=repositories) represent my journey 🏃‍♂️ - From being curious to becoming Fullstack Engineer at [**Warpbay**](https://warpbay.com/). This is where you can [**view**](https://chinmay.space) my portfolio.  Besides [**GitHub**](https://github.com/chinmay4o/), You can find me on [**Twitter**](https://twitter.com/chinmay4o). I'm always ready to collaborate for any Pro Bono Publico activity or delivering some sessions. 
+The green dots on my [**GitHub profile**](https://github.com/chinmay4o?tab=repositories) represent my journey 🏃‍♂️ - From being curious to becoming Fullstack Engineer at **Warpbay**. This is where you can [**view**](https://chinmay.space) my portfolio.  Besides [**GitHub**](https://github.com/chinmay4o/), You can find me on [**Twitter**](https://twitter.com/chinmay4o). I'm always ready to collaborate for any Pro Bono Publico activity or delivering some sessions. 
 My favourite linear: **“If You Are A Techie, Your Home Page Should Be GitHub, Not Instagram.”**
 
 <!-- ##  My Github Status 👩🏻‍💻

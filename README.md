@@ -18,6 +18,7 @@ My favourite linear: **“If You Are A Techie, Your Home Page Should Be GitHub, 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Node-47CB34?style=for-the-badge&logo=node&logoColor=61DAFB)
 ![](https://img.shields.io/badge/AWS-FFA119?style=for-the-badge&logo=AWS&logoColor=61DAFB)
+![](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=AWS&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=Tailwind&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)

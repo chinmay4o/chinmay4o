@@ -24,6 +24,7 @@ My favourite linear: **“If You Are A Techie, Your Home Page Should Be GitHub, 
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
 <a href="https://github.com/chinmay4o">
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chinmay4o&theme=buefy&show_icons=true" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay4o&theme=buefy&layout=compact" />
 </a>
 

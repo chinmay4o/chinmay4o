@@ -34,7 +34,6 @@ My favourite linear: **“If You Are A Techie, Your Home Page Should Be GitHub, 
  - 💌 [@chinmayinbox8@gmail.com](mailto:chinmayinbox8@gmail.com)
 
 <a href="https://github.com/chinmay4o">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chinmay4o&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay4o&theme=buefy&layout=compact" />
 </a>
 

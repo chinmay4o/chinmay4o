@@ -23,6 +23,10 @@ My favourite linear: **“If You Are A Techie, Your Home Page Should Be GitHub, 
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
+<a href="https://github.com/chinmay4o">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay4o&theme=buefy&layout=compact" />
+</a>
+
 ## :dart: Find me Interesting? 
 **Say Hi to me on [LinkedIn](https://www.linkedin.com/in/chinmay4o/)** :heart: 
 
@@ -32,10 +36,6 @@ My favourite linear: **“If You Are A Techie, Your Home Page Should Be GitHub, 
  - visit [www.chinmay.space](https://chinmay.space) (please check on desktop-view for better viewing experience)
 
  - 💌 [@chinmayinbox8@gmail.com](mailto:chinmayinbox8@gmail.com)
-
-<a href="https://github.com/chinmay4o">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay4o&theme=buefy&layout=compact" />
-</a>
 
 
 <!-- - 👋  Hello World! I am Chinmay Surve

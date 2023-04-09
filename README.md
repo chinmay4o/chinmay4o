@@ -37,7 +37,7 @@ Apart from work, I love building new projects and products which can solve real 
 #### Any Project you want me a part of ?
 
  - 👀 Ping me on [Twitter](https://twitter.com/chinmay4o)
- - visit [www.chinmay.space](https://chinmay.space) (please check on desktop-view for better viewing experience)
+ - visit [www.chinmay.space](https://chinmay.space)
 
  - 💌 [@chinmayinbox8@gmail.com](mailto:chinmayinbox8@gmail.com)
 

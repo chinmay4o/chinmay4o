@@ -5,7 +5,7 @@
 <br> <br>
 From being curious to becoming Fullstack Engineer at **Warpbay**. This is where you can [**view**](https://chinmay.space) my portfolio.  Besides [**GitHub**](https://github.com/chinmay4o/), You can find me on [**Twitter**](https://twitter.com/chinmay4o). I'm always ready to collaborate on deeptech projects.
 <br>
-Apart from work, I love building new projects and products which can solve real world problems and bring ease in life.
+I love building products which can solve real world problems.
 
 <!-- ##  My Github Status 👩🏻‍💻
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmay4o" /> -->

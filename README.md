@@ -31,8 +31,8 @@ Apart from work, I love building new projects and products which can solve real 
  
 <!--  <img align="right" height="270px" width="350" src="https://user-images.githubusercontent.com/72685035/147284506-c53eae58-0243-4026-a850-f091f0833326.gif" /> -->
 
-## :dart: Find me Interesting? 
-**Say Hi to me on [LinkedIn](https://www.linkedin.com/in/chinmay4o/)** :heart: 
+<!-- ## :dart: Find me Interesting? 
+**Say Hi to me on [LinkedIn](https://www.linkedin.com/in/chinmay4o/)** :heart: -->
 
 #### Any Project you want me a part of ?
 

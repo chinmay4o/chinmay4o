@@ -3,7 +3,7 @@
 <!-- [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/chinmay4o) -->
 [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/chinmay4o)
 <br> <br>
-From being curious to becoming Fullstack Engineer at **Warpbay**. This is where you can [**view**](https://chinmay.space) my portfolio.  Besides [**GitHub**](https://github.com/chinmay4o/), You can find me on [**Twitter**](https://twitter.com/chinmay4o). I'm always ready to collaborate deeptech projects.
+From being curious to becoming Fullstack Engineer at **Warpbay**. This is where you can [**view**](https://chinmay.space) my portfolio.  Besides [**GitHub**](https://github.com/chinmay4o/), You can find me on [**Twitter**](https://twitter.com/chinmay4o). I'm always ready to collaborate on deeptech projects.
 <br>
 Apart from work, I love building new projects and products which can solve real world problems and bring ease in life.
 

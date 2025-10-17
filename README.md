@@ -1,16 +1,13 @@
-# 👋 Hello World! I am Chinmay
-
-<!-- [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/chinmay4o) -->
-[![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/chinmay4o)
-<br> <br>
-From being curious to becoming Fullstack Engineer at **Warpbay**. This is where you can [**view**](https://chinmay.space) my portfolio.  Besides [**GitHub**](https://github.com/chinmay4o/), You can find me on [**Twitter**](https://twitter.com/chinmay4o). I'm always ready to collaborate on deeptech projects.
-<br>
-I love building products which can solve real world problems.
+# I'm Chinmay
+Full-stack engineer | Builder  <br>
+Shipped real products at ZestMoney, Fountain & Warpbay (founding team)  
+Built superlinks.ai solo • React | Node | Next | AWS  
+I code, ship, and hustle.
 
 <!-- ##  My Github Status 👩🏻‍💻
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmay4o" /> -->
 
-## My skills 🚀
+## Skills
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

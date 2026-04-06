@@ -2,7 +2,7 @@
 
 **Founding Engineer · Product Head · AI Agent Systems**
 
-Currently heading the product at **[Motionabl](https://motionabl.com)** `Remote, France` — an AI-powered video generation, editing, and motion graphics platform. Architecting and leading the entire product from the ground up.
+Currently buildng **[Motionabl](https://motionabl.com)** — an AI-powered video generation, editing, and motion graphics platform. Architecting and leading the entire product from the ground up.
 
 I build products from zero to millions of users. I ship fast, and I've done it across multiple founding teams.
 
@@ -10,7 +10,7 @@ I build products from zero to millions of users. I ship fast, and I've done it a
 
 ### Now
 
-**Motionabl** — `Product Head · Remote, France`
+**Motionabl**
 
 AI video generation & editing platform with a heavy architecture around agentic AI workflows, E2B remote coding sandboxes, cloud SDK integration, and chat-driven interfaces. Users interact with a sandbox environment to create, edit, and export videos — all powered by AI agents. I built the entire product from scratch.
 
@@ -20,19 +20,19 @@ AI video generation & editing platform with a heavy architecture around agentic 
 
 ### Shipped
 
-**Warpbay** — `Co-Founder · 2M+ visitors`
+**Warpbay** — `Co-Founder · 1M+ users`
 
 AI-powered B2B event & data intelligence platform. Built from scratch to **2M+ visitors**. AI-driven event creation, landing page generation, attendee matchmaking, WhatsApp campaigns, ticket sales, badge printing, onsite check-in systems, CRM, email and SMS campaigns, and real-time analytics.
 
 → [warpbay.com](https://warpbay.com)
 
-**Superlinks** — `Solo`
+**Superlinks** — `Built Solo`
 
 Create, launch, and sell digital products with AI.
 
 → [superlinks.ai](https://superlinks.ai)
 
-**ValidateSaaSIdea** — `Solo`
+**ValidateSaaSIdea** — `Built Solo`
 
 Mines Reddit for demand signals. Generates full SaaS blueprints — tech specs, features, pricing.
 

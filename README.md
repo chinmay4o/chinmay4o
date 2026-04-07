@@ -44,7 +44,7 @@ Mines Reddit for demand signals. Generates full SaaS blueprints — tech specs, 
 
 | Company | Role | |
 |---|---|---|
-| **Motionabl** | Product Head | Remote, France |
+| **Motionabl** |  |  |
 | **Introbot** | Founding Team | |
 | **Warpbay** | Co-Founder | 1M+ users |
 | **ZestMoney** | Founding Team | |

@@ -32,11 +32,11 @@ Create, launch, and sell digital products with AI.
 
 → [superlinks.ai](https://superlinks.ai)
 
-**ValidateSaaSIdea** — `Built Solo`
+**[findstartupideas](https://www.findstartupideas.com/)** — `Built Solo`
 
-Mines Reddit for demand signals. Generates full SaaS blueprints — tech specs, features, pricing.
+Mines Reddit and Haker News for demand signals. Generates full SaaS blueprints — tech specs, features, pricing.
 
-→ [validatesaasidea.com](https://validatesaasidea.com)
+→ [findstartupideas](https://www.findstartupideas.com/)
 
 ---
 

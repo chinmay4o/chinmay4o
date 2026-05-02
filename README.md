@@ -1,64 +1,33 @@
-# Hey - this is Chinmay 
+# hey, i'm chinmay 
 
-**Founding Engineer · Product Head · AI Agent Systems**
+i build products. fast. from scratch.
 
-Currently buildng **[Motionabl](https://motionabl.com)** — an AI-powered video generation, editing, and motion graphics platform. Architecting and leading the entire product from the ground up.
-
-I build products from zero to millions of users. I ship fast, and I've done it across multiple founding teams.
+currently deep in **[motionabl](https://motionabl.com)** — AI video generation and motion graphics. you describe a scene, it builds the video. motion graphics, animations, transitions, all of it. i architected the whole thing — agentic AI workflows, E2B sandboxes, cloud SDKs, chat-driven editing interface.
 
 ---
 
-### Now
+### things i've shipped
 
-**Motionabl**
+**[warpbay](https://warpbay.com)**  
+AI workflows and data intelligence for exhibitions and conferences. exhibitor onboarding, AI matchmaking, badge generation, WhatsApp campaigns, lead scanning, real-time analytics — the whole event stack. grew to 2M+ visitors.
 
-AI video generation & editing platform with a heavy architecture around agentic AI workflows, E2B remote coding sandboxes, cloud SDK integration, and chat-driven interfaces. Users interact with a sandbox environment to create, edit, and export videos — all powered by AI agents. I built the entire product from scratch.
+**[superlinks](https://superlinks.ai)**  
+create, launch, and sell digital products with AI. no tech stress, no code. you bring the knowledge, it handles everything else.
 
-→ [motionabl.com](https://motionabl.com)
+**[findstartupideas](https://www.findstartupideas.com/)** — acquired  
+scraped reddit and hacker news for real pain points, ran them through a self-hosted GPT model for sub-second extraction and clustering, built a browsable repo of 1000+ ranked ideas with community voting and one-click landing page generation. got acquired.
 
----
+**[flickerdocs](https://flicker-docs.fly.dev/)**  
+real-time collaborative text editor. no central server, no database — pure peer-to-peer over WebRTC. built a Logoot-family CRDT from scratch: fractional identifiers for dense total ordering so concurrent inserts never renumber the doc, per-peer version vectors for causal ordering. ops are commutative, associative, idempotent. strong eventual consistency, the hard way.
 
-### Shipped
-
-**Warpbay** — `Co-Founder · 1M+ users`
-
-AI-powered B2B event & data intelligence platform. Built from scratch to **2M+ visitors**. AI-driven event creation, landing page generation, attendee matchmaking, WhatsApp campaigns, ticket sales, badge printing, onsite check-in systems, CRM, email and SMS campaigns, and real-time analytics.
-
-→ [warpbay.com](https://warpbay.com)
-
-**Superlinks** — `Built Solo`
-
-Create, launch, and sell digital products with AI.
-
-→ [superlinks.ai](https://superlinks.ai)
-
-**[findstartupideas](https://www.findstartupideas.com/)** — `Built Solo`
-
-Mines Reddit and Haker News for demand signals. Generates full SaaS blueprints — tech specs, features, pricing.
-
-→ [findstartupideas](https://www.findstartupideas.com/)
+**[melo](https://www.trymelo.io/)**  
+expense tracker that lives inside WhatsApp. text it, voice note it, photo a receipt — it parses everything into a structured multi-currency ledger via the Meta Business API. voice notes go through Whisper then straight into multi-entry extraction. receipts go through Claude Vision and auto-categorize by your own rules. no app to download, no login screen.
 
 ---
 
-### Prev Work
+### stack
 
-| Company | Role | |
-|---|---|---|
-| **Motionabl** |  |  |
-| **Introbot** | Founding Team | |
-| **Warpbay** | Co-Founder | 1M+ users |
-| **ZestMoney** | Founding Team | |
-| **Fountain** | Founding Team | |
-
----
-
-### Stack
-
-`TypeScript` · `Next.js` · `React` · `Node.js` · `Python` · `AWS` · `MongoDB` · `Tailwind` · `E2B` · `Claude Code`
-
----
-
-I've built and managed remote sandbox orchestration, and multi-provider LLM integrations first-hand.
+typescript · next.js · react · node.js · python · aws · mongodb · tailwind · E2B · claude code
 
 ---
 
@@ -71,5 +40,5 @@ I've built and managed remote sandbox orchestration, and multi-provider LLM inte
 ---
 
 <p align="center">
-  <a href="https://twitter.com/chinmay4o">twitter</a> · <a href="mailto:chinmayinbox8@gmail.com">email</a>
+  <a href="https://x.com/chinmay4o">X</a> · <a href="mailto:chinmayinbox8@gmail.com">Email</a>
 </p>

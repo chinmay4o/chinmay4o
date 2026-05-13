@@ -2,7 +2,7 @@
 
 i build products. fast. from scratch.
 
-currently deep in **[motionabl](https://motionabl.com)** — AI video generation and motion graphics. you describe a scene, it builds the video. motion graphics, animations, transitions, all of it. i architected the whole thing — agentic AI workflows, E2B sandboxes, cloud SDKs, chat-driven editing interface.
+**[motionabl](https://motionabl.com)** — AI video generation and motion graphics. you describe a scene, it builds the video. motion graphics, animations, transitions, all of it. i architected the whole thing — agentic AI workflows, E2B sandboxes, cloud SDKs, chat-driven editing interface.
 
 ---
 

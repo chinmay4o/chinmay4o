@@ -1,6 +1,4 @@
-# hey, i'm chinmay 
-
-i build products. fast. from scratch.
+# I build products. fast. from scratch.
 
 **[motionabl](https://motionabl.com)** — AI video generation and motion graphics. you describe a scene, it builds the video. motion graphics, animations, transitions, all of it. i architected the whole thing — agentic AI workflows, E2B sandboxes, cloud SDKs, chat-driven editing interface.
 

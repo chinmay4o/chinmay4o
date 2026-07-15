@@ -6,17 +6,20 @@
 
 ### things i've shipped
 
+**[GrowthCamel](https://growthcamel.xyz)** - Find what's working in your niche, then post it as you. Point it at any competitor's Instagram and get back finished, on-brand talking-head Reels in your own voice and face.  
+GrowthCamel is a full-stack AI content engine. You give it a competitor's Instagram handle; it scrapes their Reels, finds the ones that genuinely outperformed that account's own average (the real breakouts, not just their biggest posts), rewrites those winning ideas into fresh scripts in your voice, clones your voice, and renders a talking-head video of you - the whole competitor-research-to-finished-Reel pipeline in one click. A research-backed starting point, not a blank page.
+
 **[Eventdaddy](https://eventdaddy.ai)**  
 EventDaddy is an AI-native operating system for B2B trade shows, exhibitions, and conferences. Built to replace the duct-taped stack of external event tools, it unifies registration, check-in and checkout, badge scanning and printing, attendee and exhibitor CRM, OEM, speaker and sponsor onboarding, affiliate networks, marketing automation, and event operations under a single platform. With agentic infrastructure embedded across every layer, organizers can control and operate their entire trade show simply by talking to EventDaddy — one platform, one system, one unified operational layer.
 
-**[Warpbay](https://warpbay.com)**  
+**[Warpbay](https://warpbay.com)** - (Raised $200k)  
 AI workflows and data intelligence for exhibitions and conferences. exhibitor onboarding, AI matchmaking, badge generation, WhatsApp campaigns, lead scanning, real-time analytics — the whole event stack. grew to 2M+ visitors.
 
 **[Superlinks](https://superlinks.ai)**  
 create, launch, and sell digital products with AI. no tech stress, no code. you bring the knowledge, it handles everything else.
 
 **[Findstartupideas](https://www.findstartupideas.com/)** — acquired  
-scraped reddit and hacker news for real pain points, ran them through a self-hosted GPT model for sub-second extraction and clustering, built a browsable repo of 1000+ ranked ideas with community voting and one-click landing page generation. got acquired.
+Scraped reddit and hacker news for real pain points, ran them through a self-hosted GPT model for sub-second extraction and clustering, built a browsable repo of 1000+ ranked ideas with community voting and one-click landing page generation. got acquired.
 
 **[Flickerdocs](https://flicker-docs.fly.dev/)**  
 real-time collaborative text editor. no central server, no database — pure peer-to-peer over WebRTC. built a Logoot-family CRDT from scratch: fractional identifiers for dense total ordering so concurrent inserts never renumber the doc, per-peer version vectors for causal ordering. ops are commutative, associative, idempotent. strong eventual consistency, the hard way.

@@ -1,6 +1,8 @@
 # I build products. fast. from scratch.
 
-**[Motionabl](https://motionabl.com)** — AI video generation and motion graphics. you describe a scene, it builds the video. motion graphics, animations, transitions, all of it. i architected the whole thing — agentic AI workflows, E2B sandboxes, cloud SDKs, chat-driven editing interface.
+**[Eventdaddy](https://eventdaddy.ai)**  
+**[Eventdaddy App](https://app.eventdaddy.ai)**  
+EventDaddy is an AI-native operating system for B2B trade shows, exhibitions, and conferences. Built to replace the duct-taped stack of external event tools, it unifies registration, check-in and checkout, badge scanning and printing, attendee and exhibitor CRM, OEM, speaker and sponsor onboarding, affiliate networks, marketing automation, and event operations under a single platform. With agentic infrastructure embedded across every layer, organizers can control and operate their entire trade show simply by talking to EventDaddy — one platform, one system, one unified operational layer.
 
 ---
 
@@ -9,8 +11,8 @@
 **[GrowthCamel](https://growthcamel.xyz)** - Find what's working in your niche, then post it as you. Point it at any competitor's Instagram and get back finished, on-brand talking-head Reels in your own voice and face.  
 GrowthCamel is a full-stack AI content engine. You give it a competitor's Instagram handle; it scrapes their Reels, finds the ones that genuinely outperformed that account's own average (the real breakouts, not just their biggest posts), rewrites those winning ideas into fresh scripts in your voice, clones your voice, and renders a talking-head video of you - the whole competitor-research-to-finished-Reel pipeline in one click. A research-backed starting point, not a blank page.
 
-**[Eventdaddy](https://eventdaddy.ai)**  
-EventDaddy is an AI-native operating system for B2B trade shows, exhibitions, and conferences. Built to replace the duct-taped stack of external event tools, it unifies registration, check-in and checkout, badge scanning and printing, attendee and exhibitor CRM, OEM, speaker and sponsor onboarding, affiliate networks, marketing automation, and event operations under a single platform. With agentic infrastructure embedded across every layer, organizers can control and operate their entire trade show simply by talking to EventDaddy — one platform, one system, one unified operational layer.
+**[Motionabl](https://motionabl.com)** — (Product Head - Paris, France)  
+AI video generation and motion graphics. you describe a scene, it builds the video. motion graphics, animations, transitions, all of it. i architected the whole thing — agentic AI workflows, E2B sandboxes, cloud SDKs, chat-driven editing interface.
 
 **[Warpbay](https://warpbay.com)** - (Raised $200k)  
 AI workflows and data intelligence for exhibitions and conferences. exhibitor onboarding, AI matchmaking, badge generation, WhatsApp campaigns, lead scanning, real-time analytics — the whole event stack. grew to 2M+ visitors.

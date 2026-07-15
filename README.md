@@ -20,7 +20,7 @@ AI workflows and data intelligence for exhibitions and conferences. exhibitor on
 **[Superlinks](https://superlinks.ai)**  
 create, launch, and sell digital products with AI. no tech stress, no code. you bring the knowledge, it handles everything else.
 
-**[Findstartupideas](https://www.findstartupideas.com/)** — acquired  
+**[Findstartupideas](https://www.findstartupideas.com/)** — (Acquired)  
 Scraped reddit and hacker news for real pain points, ran them through a self-hosted GPT model for sub-second extraction and clustering, built a browsable repo of 1000+ ranked ideas with community voting and one-click landing page generation. got acquired.
 
 **[Flickerdocs](https://flicker-docs.fly.dev/)**  

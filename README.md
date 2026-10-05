@@ -4,15 +4,15 @@
 **[Eventdaddy Dashboard](https://app.eventdaddy.ai)**  
 EventDaddy is an AI-native operating system for B2B trade shows, exhibitions, and conferences. Built to replace the duct-taped stack of external event tools, it unifies registration, check-in and checkout, badge scanning and printing, attendee and exhibitor CRM, OEM, speaker and sponsor onboarding, affiliate networks, marketing automation, and event operations under a single platform. With agentic infrastructure embedded across every layer, organizers can control and operate their entire trade show simply by talking to EventDaddy.
 
+**[GrowthCamel](https://growthcamel.xyz)** - Post like you have a content team. Find what is already working in your niche, then post it as you.  
+GrowthCamel is a full-stack AI content engine. Name a competitor and it reads their whole back catalogue, up to a couple of thousand posts, and pulls out the ones that beat that account's own average. The best post to learn from is rarely the one with the most views. A creator who usually gets 40K and suddenly gets 800K did something worth studying. GrowthCamel explains why that post worked, rewrites the idea into a script in your words, then turns the script into a finished video with your voice, your face and motion graphics. Record your voice once and upload one photo, and every script after that becomes a video of you. Scripts stay editable before you generate. Covers Instagram Reels, TikTok and YouTube Shorts. Built from a playbook that grew 300K+ followers on Instagram before it became software.
+
 **Pelorus .ai** - Real-time voyage optimization for merchant ships. Works out how to drive each ship across the ocean for the least cost, and keeps re-deciding as conditions change.  
 A large ship burns $120,000 to $200,000 of fuel a day and now pays carbon charges on top. Most ships still run a fixed plan. Pelorus runs a continuous loop on every vessel. It tracks the real ship against its plan using AIS and noon reports, pulls the latest marine forecast along the route, then re-runs the routing engine against a performance model built for that one ship from its own data. When a better route shows up, the captain gets a follow or decline card. It re-optimizes every weather cycle and solves for fuel, EU ETS, FuelEU, CII rating and schedule together, across hundreds of millions of route and speed combinations.
 
 ---
 
 ### things i've shipped
-
-**[GrowthCamel](https://growthcamel.xyz)** - Find what's working in your niche, then post it as you. Point it at any competitor's Instagram and get back finished, on-brand talking-head Reels in your own voice and face.  
-GrowthCamel is a full-stack AI content engine. You give it a competitor's Instagram handle; it scrapes their Reels, finds the ones that genuinely outperformed that account's own average (the real breakouts, not just their biggest posts), rewrites those winning ideas into fresh scripts in your voice, clones your voice, and renders a talking-head video of you - the whole competitor-research-to-finished-Reel pipeline in one click. A research-backed starting point, not a blank page.
 
 **[Motionabl](https://motionabl.com)** - (Product Head, Paris, France)  
 AI video generation and motion graphics. you describe a scene, it builds the video. motion graphics, animations, transitions, all of it. i architected the whole thing. agentic AI workflows, E2B sandboxes, cloud SDKs, chat-driven editing interface.

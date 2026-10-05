@@ -4,6 +4,9 @@
 **[Eventdaddy Dashboard](https://app.eventdaddy.ai)**  
 EventDaddy is an AI-native operating system for B2B trade shows, exhibitions, and conferences. Built to replace the duct-taped stack of external event tools, it unifies registration, check-in and checkout, badge scanning and printing, attendee and exhibitor CRM, OEM, speaker and sponsor onboarding, affiliate networks, marketing automation, and event operations under a single platform. With agentic infrastructure embedded across every layer, organizers can control and operate their entire trade show simply by talking to EventDaddy — one platform, one system, one unified operational layer.
 
+**Pelorus .ai** - Real-time voyage optimization for merchant ships. Works out how to drive each ship across the ocean for the least cost, and keeps re-deciding as conditions change.  
+A large ship burns $120,000 to $200,000 of fuel a day and now pays carbon charges on top. Most ships still run a fixed plan. Pelorus runs a continuous loop on every vessel. It tracks the real ship against its plan using AIS and noon reports, pulls the latest marine forecast along the route, then re-runs the routing engine against a performance model built for that one ship from its own data. When a better route shows up, the captain gets a follow or decline card. It re-optimizes every weather cycle and solves for fuel, EU ETS, FuelEU, CII rating and schedule together, across hundreds of millions of route and speed combinations.
+
 ---
 
 ### things i've shipped

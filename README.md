@@ -9,6 +9,7 @@ A large ship burns $120,000 to $200,000 of fuel a day and now pays carbon charge
 **[Eventdaddy](https://eventdaddy.ai)**  
 **[Eventdaddy Dashboard](https://app.eventdaddy.ai)**  
 EventDaddy is an AI-native operating system for B2B trade shows, exhibitions, and conferences. Built to replace the duct-taped stack of external event tools, it unifies registration, check-in and checkout, badge scanning and printing, attendee and exhibitor CRM, OEM, speaker and sponsor onboarding, affiliate networks, marketing automation, and event operations under a single platform. With agentic infrastructure embedded across every layer, organizers can control and operate their entire trade show simply by talking to EventDaddy.
+
 ---
 
 ### things i've shipped

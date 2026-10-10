@@ -5,8 +5,10 @@
 **[GrowthCamel](https://growthcamel.xyz)** - Find what is working in your niche, then post it as you.  
 A competitor's Instagram goes in and finished videos of you come out, in your own voice and face. It ingests up to 2,000 reels per handle across Instagram, TikTok and YouTube Shorts and ranks them against each account's own baseline instead of raw views, so a small account's breakout still surfaces. The voice is cloned from one audio sample and the video built from one photo. The AI's motion graphics are checked against placement rules before they render, and a single-pass composite cut peak memory by 58% with no lip-sync drift. When the text-to-speech vendor's speed setting turned out not to work, I re-paced the audio myself and rescaled the word timings so captions and lip-sync stayed aligned. Built from a playbook I used to grow an insta account past 300K.
 
-**Pelorus .ai** - Voyage optimization for merchant ships.  
-Pelorus reads live NOAA weather and wave forecasts, estimates fuel burn for the specific hull, and prices every candidate route in dollars. It ranks on total cost rather than time, and it accounts for carbon charges and compliance (EU ETS, FuelEU, CII) alongside fuel. It now refuses any recommendation it cannot resolve, won't run on climatology, and never fills gaps with silent defaults. It's backed by 343 test modules.
+**Pelorus .ai** - Pelorus is a continuous voyage optimization platform for merchant ships, covering container vessels, LNG carriers, and crude and product tankers.
+It reads live NOAA marine forecasts along a vessel’s filed route and models how that specific hull will actually perform in those seas, accounting for speed loss, added resistance and fuel burn.
+When a better track exists, it proposes one and prices the difference in fuel, CO2 and dollars against the voyage’s own bunker costs and charter terms.
+Every recommendation shows the arithmetic behind it, and the platform stays silent when the saving is too small to be real.
 
 **[EventDaddy](https://eventdaddy.ai)** - AI-native operating system for B2B trade shows.  
 Registration, check-in, badge printing, exhibitor and sponsor onboarding and marketing live in one platform, and organizers run the whole show by talking to it. Background jobs run on a MongoDB queue with heartbeat leases, so a crashed worker's job is picked up by another. The agent is bounded to a fixed number of rounds, and anything it can't undo, like a mass send or a refund, waits for a human. The model is told the action is pending.

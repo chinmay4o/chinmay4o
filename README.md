@@ -1,7 +1,5 @@
 # I build products. fast. from scratch.
 
-CTO at Warpbay (raised $200k). Head of Product at Motionabl. Built and sold FindStartupIdeas.
-
 ### Things I have Shipped -  
 
 **[GrowthCamel](https://growthcamel.xyz)** - Find what is working in your niche, then post it as you.  

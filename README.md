@@ -10,11 +10,18 @@ It reads live NOAA marine forecasts along a vessel’s filed route and models ho
 When a better track exists, it proposes one and prices the difference in fuel, CO2 and dollars against the voyage’s own bunker costs and charter terms.
 Every recommendation shows the arithmetic behind it, and the platform stays silent when the saving is too small to be real.
 
-**[EventDaddy](https://eventdaddy.ai)** - AI-native operating system for B2B trade shows.  
-Registration, check-in, badge printing, exhibitor and sponsor onboarding and marketing live in one platform, and organizers run the whole show by talking to it. Background jobs run on a MongoDB queue with heartbeat leases, so a crashed worker's job is picked up by another. The agent is bounded to a fixed number of rounds, and anything it can't undo, like a mass send or a refund, waits for a human. The model is told the action is pending.
+**[EventDaddy](https://eventdaddy.ai)** - Eventdaddy is an operating system for B2B events. Conferences, trade shows and exhibitions are still run on six disconnected tools and a spreadsheet, and we collapse that into one system.
+It covers the full lifecycle in a single product: branded registration pages, ticketing and checkout, an attendee CRM that persists across events, sub-second QR check-in with on-site badge printing, email campaigns and analytics.
+The real work sits in transactional registration across multiple documents, dual payment gateways for international and India with per-tenant credentials encrypted at rest, signature-verified webhooks, and bulk imports on a worker queue that survives a crashed worker.
 
-**[Motionabl](https://motionabl.com)** - AI video generation and motion graphics.  
-You describe a scene and it builds the video. I was Product Head at Motionabl, based out of Paris. I made a coding-agent SDK built for one laptop work for many users, restoring each session from the database per request. AI-written code is type-checked and linted in parallel, then opened in a real browser at five frames before every render to catch errors that only appear mid-video. As agent runs outgrew platform limits I moved from Vercel's 300s cap to 800s and then to Railway, and moved bundling into sandboxes after it ran out of memory.
+Otto, the built-in AI agent, can read event data and take action, but anything outward or irreversible such as sending a campaign, issuing a refund or deleting records is held behind an explicit human approval step rather than trusted to the model.
+
+**[Motionabl](https://motionabl.com)** - Motionabl turns a plain-English description of a video into a finished, polished motion graphics video, with no editing software or timeline.
+It works through 55 custom tools to generate voiceovers, sound effects, music and images, pick palettes and fonts, and check its own output by type-checking the code and rendering sample frames before you ever see it.
+
+Every project is saved as its own GitHub repo, so users can refine the video by chatting ("make the intro faster", "swap the colors") and the agent edits the code instead of starting over.
+
+Final videos render in parallel on AWS Lambda, and billing is metered in credits based on the actual AI and tool cost of each generation.
 
 **[Warpbay](https://warpbay.com)** - AI workflows for exhibitions, and the whole event stack.  
 Matchmaking, badges, WhatsApp campaigns and lead scanning; it raised $200k and grew to 1M+ visitors across 100+ in-person events. I scaled it for traffic spikes with Nginx and PM2 cluster mode and streamed 1000+ badge batches without memory spikes. I also built the schema-driven registration and payment form builder, the WhatsApp and email outreach console, and per-event ROI for organizers through MongoDB aggregation.

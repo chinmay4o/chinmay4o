@@ -1,36 +1,37 @@
 # I build products. fast. from scratch.
 
+CTO at Warpbay (raised $200k). Head of Product at Motionabl. Built and sold FindStartupIdeas.
+
+### now building
+
 **[GrowthCamel](https://growthcamel.xyz)** - Find what is working in your niche, then post it as you.  
-Turns a competitor handle into a finished video. Ingests an account's entire back catalogue, up to 2,000 reels, and scores every post against that account's own engagement distribution instead of raw views, so a 40K account breaking 800K outranks a 2M account having an average day. Outliers feed an LLM rewrite into scripts in the user's voice, then a render stage: voice cloned from a single audio sample, talking-head video from a single photo, motion graphics composited on top. One request crosses scraping, inference, speech synthesis and video render. Instagram Reels, TikTok and YouTube Shorts. Built from a playbook I used to grow an insta account past 300K.
+A competitor's Instagram goes in and finished videos of you come out, in your own voice and face. It ingests up to 2,000 reels per handle across Instagram, TikTok and YouTube Shorts and ranks them against each account's own baseline instead of raw views, so a small account's breakout still surfaces. The voice is cloned from one audio sample and the video built from one photo. The AI's motion graphics are checked against placement rules before they render, and a single-pass composite cut peak memory by 58% with no lip-sync drift. When the text-to-speech vendor's speed setting turned out not to work, I re-paced the audio myself and rescaled the word timings so captions and lip-sync stayed aligned. Built from a playbook I used to grow an insta account past 300K.
 
-**Pelorus .ai** - Real-time voyage optimization for merchant ships. Works out how to drive each ship across the ocean for the least cost, and keeps re-deciding as conditions change.  
-A large ship burns $120,000 to $200,000 of fuel a day and now pays carbon charges on top. Most ships still run a fixed plan. Pelorus runs a continuous loop on every vessel. It tracks the real ship against its plan using AIS and noon reports, pulls the latest marine forecast along the route, then re-runs the routing engine against a performance model built for that one ship from its own data. When a better route shows up, the captain gets a follow or decline card. It re-optimizes every weather cycle and solves for fuel, EU ETS, FuelEU, CII rating and schedule together, across hundreds of millions of route and speed combinations.
+**Pelorus .ai** - Voyage optimization for merchant ships.  
+Pelorus reads live NOAA weather and wave forecasts, estimates fuel burn for the specific hull, and prices every candidate route in dollars. It ranks on total cost rather than time, and it accounts for carbon charges and compliance (EU ETS, FuelEU, CII) alongside fuel. Its first $1,298 saving turned out to be sampling noise: the route's own cost moved $5,180 when only the sampling resolution changed. Better interpolation and denser grids cut that to $405, which made a $34,803 recommendation clear the noise by 86x. It now refuses any recommendation it cannot resolve, won't run on climatology, and never fills gaps with silent defaults. It's backed by 343 test modules.
 
-**[Eventdaddy](https://eventdaddy.ai)**  
-**[Eventdaddy Dashboard](https://app.eventdaddy.ai)**  
-EventDaddy is an AI-native operating system for B2B trade shows, exhibitions, and conferences. Built to replace the duct-taped stack of external event tools, it unifies registration, check-in and checkout, badge scanning and printing, attendee and exhibitor CRM, OEM, speaker and sponsor onboarding, affiliate networks, marketing automation, and event operations under a single platform. With agentic infrastructure embedded across every layer, organizers can control and operate their entire trade show simply by talking to EventDaddy.
+**[EventDaddy](https://eventdaddy.ai)** - AI-native operating system for B2B trade shows.  
+Registration, check-in, badge printing, exhibitor and sponsor onboarding and marketing live in one platform, and organizers run the whole show by talking to it. Background jobs run on a MongoDB queue with heartbeat leases, so a crashed worker's job is picked up by another. The agent is bounded to a fixed number of rounds, and anything it can't undo, like a mass send or a refund, waits for a human. The model is told the action is pending.
 
----
+### before that
 
-### things i've shipped
+**[Motionabl](https://motionabl.com)** - AI video generation and motion graphics.  
+You describe a scene and it builds the video. I was Product Head at Motionabl, based out of Paris. I made a coding-agent SDK built for one laptop work for many users, restoring each session from the database per request. AI-written code is type-checked and linted in parallel, then opened in a real browser at five frames before every render to catch errors that only appear mid-video. As agent runs outgrew platform limits I moved from Vercel's 300s cap to 800s and then to Railway, and moved bundling into sandboxes after it ran out of memory.
 
-**[Motionabl](https://motionabl.com)** - (Product Head, Paris, France)  
-AI video generation and motion graphics. you describe a scene, it builds the video. motion graphics, animations, transitions, all of it. i architected the whole thing. agentic AI workflows, E2B sandboxes, cloud SDKs, chat-driven editing interface.
+**[Warpbay](https://warpbay.com)** - AI workflows for exhibitions, and the whole event stack.  
+Matchmaking, badges, WhatsApp campaigns and lead scanning; it raised $200k and grew to 1M+ visitors across 100+ in-person events. I scaled it for traffic spikes with Nginx and PM2 cluster mode and streamed 1000+ badge batches without memory spikes. I also built the schema-driven registration and payment form builder, the WhatsApp and email outreach console, and per-event ROI for organizers through MongoDB aggregation.
 
-**[Warpbay](https://warpbay.com)** - (Raised $200k)  
-AI workflows and data intelligence for exhibitions and conferences. exhibitor onboarding, AI matchmaking, badge generation, WhatsApp campaigns, lead scanning, real-time analytics. the whole event stack. grew to 2M+ visitors.
+**[Superlinks](https://superlinks.ai)** - Create, launch and sell digital products with AI, no code.  
+I built the live landing page editor, where every change appears instantly in a sandboxed preview with no rebuild or reload. Paid products stay locked behind signed access tokens until payment clears, and webhook-driven payments power sales tracking, refunds and split payouts across vendors. I also cut API calls by 20% with client-side memoization.
 
-**[Superlinks](https://superlinks.ai)**  
-create, launch, and sell digital products with AI. no tech stress, no code. you bring the knowledge, it handles everything else.
+**[Findstartupideas](https://www.findstartupideas.com/)** - Acquired.  
+It mined Reddit and Hacker News for real pain points and turned them into 1000+ ranked startup ideas with community voting and one-click landing page generation. Scrapers ran live on each user's search with deep thread traversal, and a self-hosted GPT model extracted, deduplicated and clustered the pain points in sub-second time.
 
-**[Findstartupideas](https://www.findstartupideas.com/)** - (Acquired)  
-Scraped reddit and hacker news for real pain points, ran them through a self-hosted GPT model for sub-second extraction and clustering, built a browsable repo of 1000+ ranked ideas with community voting and one-click landing page generation. got acquired.
+**[Flickerdocs](https://flicker-docs.fly.dev/)** - A real-time collaborative editor with no server and no database.  
+It runs peer-to-peer over WebRTC on a Logoot-family CRDT I built from scratch, following Shapiro 2011 and Preguiça 2009. Fractional identifiers keep concurrent inserts from ever renumbering the document, and per-peer version vectors give causal ordering. Operations are commutative, associative and idempotent, which gives strong eventual consistency.
 
-**[Flickerdocs](https://flicker-docs.fly.dev/)**  
-real-time collaborative text editor. no central server, no database. pure peer-to-peer over WebRTC. built a Logoot-family CRDT from scratch: fractional identifiers for dense total ordering so concurrent inserts never renumber the doc, per-peer version vectors for causal ordering. ops are commutative, associative, idempotent. strong eventual consistency, the hard way.
-
-**[Melo](https://www.trymelo.io/)**  
-expense tracker that lives inside WhatsApp. text it, voice note it, photo a receipt. it parses everything into a structured multi-currency ledger via the Meta Business API. voice notes go through Whisper then straight into multi-entry extraction. receipts go through Claude Vision and auto-categorize by your own rules. no app to download, no login screen.
+**[Melo](https://www.trymelo.io/)** - An expense tracker that lives inside WhatsApp.  
+Text it, voice note it or photograph a receipt, and it lands in a multi-currency ledger on the Meta Business API with no app and no login. Free-form messages are parsed into merchant, amount, currency and category in under a second. Voice notes go through Whisper into multi-entry extraction, so one clip can capture several expenses in several languages, and receipts go through Claude Vision into your own categories.
 
 ---
 

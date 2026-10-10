@@ -2,7 +2,7 @@
 
 CTO at Warpbay (raised $200k). Head of Product at Motionabl. Built and sold FindStartupIdeas.
 
-## What i built -  
+### Things I have Shipped -  
 
 **[GrowthCamel](https://growthcamel.xyz)** - Find what is working in your niche, then post it as you.  
 A competitor's Instagram goes in and finished videos of you come out, in your own voice and face. It ingests up to 2,000 reels per handle across Instagram, TikTok and YouTube Shorts and ranks them against each account's own baseline instead of raw views, so a small account's breakout still surfaces. The voice is cloned from one audio sample and the video built from one photo. The AI's motion graphics are checked against placement rules before they render, and a single-pass composite cut peak memory by 58% with no lip-sync drift. When the text-to-speech vendor's speed setting turned out not to work, I re-paced the audio myself and rescaled the word timings so captions and lip-sync stayed aligned. Built from a playbook I used to grow an insta account past 300K.
@@ -12,8 +12,6 @@ Pelorus reads live NOAA weather and wave forecasts, estimates fuel burn for the 
 
 **[EventDaddy](https://eventdaddy.ai)** - AI-native operating system for B2B trade shows.  
 Registration, check-in, badge printing, exhibitor and sponsor onboarding and marketing live in one platform, and organizers run the whole show by talking to it. Background jobs run on a MongoDB queue with heartbeat leases, so a crashed worker's job is picked up by another. The agent is bounded to a fixed number of rounds, and anything it can't undo, like a mass send or a refund, waits for a human. The model is told the action is pending.
-
-### before that
 
 **[Motionabl](https://motionabl.com)** - AI video generation and motion graphics.  
 You describe a scene and it builds the video. I was Product Head at Motionabl, based out of Paris. I made a coding-agent SDK built for one laptop work for many users, restoring each session from the database per request. AI-written code is type-checked and linted in parallel, then opened in a real browser at five frames before every render to catch errors that only appear mid-video. As agent runs outgrew platform limits I moved from Vercel's 300s cap to 800s and then to Railway, and moved bundling into sandboxes after it ran out of memory.

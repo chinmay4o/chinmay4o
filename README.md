@@ -1,6 +1,6 @@
 # I build products. Fast. From scratch.
 
-**Pelorus. ai** - Continuous voyage optimization for merchant ships: container vessels, LNG carriers, and crude and product tankers.
+**[Pelorus.ai](https://#)** - Continuous voyage optimization for merchant ships: container vessels, LNG carriers, and crude and product tankers.
 It reads live NOAA marine forecasts along a vessel's filed route and models how that specific hull will perform in those seas: speed loss, added resistance and fuel burn. When a better track exists, it proposes one and prices the difference in fuel, CO2 and dollars against the voyage's own bunker costs and charter terms. Every recommendation shows its arithmetic, and it stays silent when the saving is too small to be real.
 
 **[Warpbay](https://warpbay.com)** · AI workflows for trade shows: matchmaking, badges, WhatsApp campaigns and lead scanning.
